@@ -50,7 +50,7 @@ endmodule
 
 ### Output:
 
-![image](https://github.com/AADHITHYAAYYAPPAKRISHNAN/VLSI-LAB-EXP-3/assets/159053561/cc113a9c-b544-434c-b9ae-23f4698a1f6e)
+![image](https://github.com/Rakeshraki-007/VLSI-LAB-EXP-3/assets/161815387/cf1264a2-bc3e-40a6-ac05-2ad6a7357176)
 
 
 ## 4 Bit Multiplier:
@@ -101,7 +101,8 @@ endmodule
 
 ### Output:
 
-![image](https://github.com/AADHITHYAAYYAPPAKRISHNAN/VLSI-LAB-EXP-3/assets/159053561/6e46edff-4380-4f62-bb81-23d9517c521f)
+![image](https://github.com/Rakeshraki-007/VLSI-LAB-EXP-3/assets/161815387/a65ecb1c-bc26-4aea-b2e0-1d6f11617d2c)
+
 
 
 
